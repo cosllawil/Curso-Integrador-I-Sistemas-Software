@@ -1,0 +1,6 @@
+{
+  "name": "Paz y Espresso - MVC Spring Boot & API REST",
+  "description": "Sistema E-Commerce para la cafetería 'Paz y Espresso' con arquitectura completa MVC + API REST con Java 17, Spring Boot, Spring Security, Spring Data JPA, Hibernate y MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
